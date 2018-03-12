@@ -1,4 +1,4 @@
-four-ten-game
+**four-ten-gone**
 ****
 a WordPress theme for sites that have had content removed
 - sends a 410 message for all single post URLs

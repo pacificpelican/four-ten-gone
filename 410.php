@@ -3,9 +3,9 @@ header("HTTP/1.1 410 Gone");
 ?>
 <?php
 /**
- * The template for displaying all single posts
+ * The template for 410 Gone (not fomrmally part of WP template hierarchy)
  *
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
+ * @link https://developer.wordpress.org/themes/basics/template-hierarchy
  *
  * @package four-ten-gone
  */

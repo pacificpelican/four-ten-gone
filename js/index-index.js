@@ -6,7 +6,7 @@ const burst = new mojs.Burst({
     fill:       { 'purple' : 'white' },
     radius:     12,
     angle:      { 360: 0 },
-    duration:   2000
+    duration:   1900
   }
 });
 

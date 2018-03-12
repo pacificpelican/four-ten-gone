@@ -3,9 +3,9 @@ header("HTTP/1.1 404 Not Found");
 ?>
 <?php
 /**
- * The template for displaying all single posts
+ * The template for displaying all 404 not found pages
  *
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
+ * @link https://developer.wordpress.org/themes/basics/template-hierarchy
  *
  * @package four-ten-gone
  */

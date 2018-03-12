@@ -1,0 +1,8 @@
+section#fourTenGone {
+  font-family: "Hack", "Fira code", Menlo, monospace, mono;
+  font-size: 15rem;
+  color: floralWhite;
+}
+div#core410 {
+  background: linear-gradient(red , purple);
+}

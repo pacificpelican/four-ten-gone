@@ -4,7 +4,7 @@ a WordPress theme for sites that have had content removed
 - sends a 410 message for all single post URLs
 - sends a 404 message for index page
 
-This theme was built off of the _s biolerplate (starter theme)
+This theme was built off of the _s boilerplate (starter theme)
 ===
 
 Hi. I'm a starter theme called `_s`, or `underscores`, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.

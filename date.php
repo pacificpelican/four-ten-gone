@@ -3,7 +3,7 @@ header("HTTP/1.1 404 Not Found");
 ?>
 <?php
 /**
- * The template for displaying the site home page
+ * The template for displaying all single posts that are date-based archives
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy
  *
@@ -15,10 +15,12 @@ header("HTTP/1.1 404 Not Found");
 
 <head>
   <meta charset="UTF-8">
-  <title>404 Not Found</title>
+  <title>Not Found</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+
   <link rel="stylesheet" href="../../../../wp-content/themes/four-ten-gone/layouts/style-index.css">
+
 
 </head>
 

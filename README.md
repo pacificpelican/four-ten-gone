@@ -1,10 +1,16 @@
 **four-ten-gone**
 ****
 a WordPress theme for sites that have had content removed
+
 - sends a 410 message for all single post URLs
 - sends a 404 message for index page
 
 This theme was built off of the _s boilerplate (starter theme)
+
+===
+
+Copyright 2018 by [Dan McKeown](http://danmckeown.info), based on [_s](https://underscores.me/) theme by Automattic, licensed under GNU GPL [v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) or later
+
 ===
 
 Hi. I'm a starter theme called `_s`, or `underscores`, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.

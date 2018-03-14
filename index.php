@@ -3,7 +3,11 @@ header("HTTP/1.1 404 Not Found");
 ?>
 <?php
 /**
- * The template for displaying the site home page
+ * The template for displaying the site home page: by default sends a 404 signal and shows a 404 message
+ * This page could be used as a static home page: just replace the body's markup with yours & remove the 404 header
+ * Change this and no other templates and then the home page will be the only one not to show 410 or 404 messages
+ * If this page is modified to have content in the body (instead of the 404 message) then the 404 PHP header should be removed:
+ * The line `header("HTTP/1.1 404 Not Found");` should be deleted if this homepage serves actual (non-404) content
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy
  *
@@ -51,12 +55,7 @@ header("HTTP/1.1 404 Not Found");
   </div>
   <script src='../../../../../../../wp-content/themes/four-ten-gone/js/mo.min.js'></script>
 
-
-
   <script src="../../../../../../../wp-content/themes/four-ten-gone/js/index-index.js"></script>
-
-
-
 
 </body>
 

@@ -1,6 +1,6 @@
 === four-ten-gone ===
 
-Contributors: automattic
+Contributors: automattic, Dan McKeown
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 
 Requires at least: 4.5
@@ -30,9 +30,13 @@ four-ten-gone includes support for Infinite Scroll in Jetpack.
 == Changelog ==
 
 = 1.0 - May 12 2015 =
-* Initial release
+* Initial release [of _s]
+
+= 0.7.2 - March 13 2018 =
+* Initial release [of four-ten-gone]
 
 == Credits ==
 
+* Created by [Dan McKeown](http://danmckeown.info)
 * Based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 * normalize.css https://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](https://opensource.org/licenses/MIT)

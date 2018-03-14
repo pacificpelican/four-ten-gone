@@ -18,9 +18,7 @@ header("HTTP/1.1 410 Gone");
   <title>410 Gone</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-
   <link rel="stylesheet" href="../../../../wp-content/themes/four-ten-gone/layouts/style.css">
-
 
 </head>
 
@@ -54,12 +52,7 @@ header("HTTP/1.1 410 Gone");
     </aside>
 	<script src='../../../../../../../wp-content/themes/four-ten-gone/js/mo.min.js'></script>
 
-
-
   <script src="../../../../../../../wp-content/themes/four-ten-gone/js/index.js"></script>
-
-
-
 
 </body>
 

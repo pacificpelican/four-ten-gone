@@ -18,9 +18,7 @@ header("HTTP/1.1 404 Not Found");
   <title>404 Not Found</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-
   <link rel="stylesheet" href="../../../../wp-content/themes/four-ten-gone/layouts/style-index.css">
-
 
 </head>
 

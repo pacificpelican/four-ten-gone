@@ -18,9 +18,7 @@ header("HTTP/1.1 404 Not Found");
   <title>Not Found</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-
   <link rel="stylesheet" href="../../../../wp-content/themes/four-ten-gone/layouts/style-index.css">
-
 
 </head>
 
@@ -53,12 +51,7 @@ header("HTTP/1.1 404 Not Found");
   </div>
   <script src='../../../../../../../wp-content/themes/four-ten-gone/js/mo.min.js'></script>
 
-
-
   <script src="../../../../../../../wp-content/themes/four-ten-gone/js/index-index.js"></script>
-
-
-
 
 </body>
 

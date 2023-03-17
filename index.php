@@ -35,7 +35,11 @@ header("HTTP/1.1 404 Not Found");
       <span id="fourTen">404</span>
       <span id="spacer"> </span>
       <span id="Gone">Not Found</span>
+     
+      <img id="parrot" src="../../../../../../../wp-content/themes/four-ten-gone/pacificpelican_as_the_artwork_in_a_404_error_page_Pixar_style_6a74c9bb-9496-4627-a21f-1a675076b38a.png" alt="parrot" />
+  
     </section>
+    
     <aside id="siteLink">
       <a href="../../../../../../../..">
         <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -56,7 +60,13 @@ header("HTTP/1.1 404 Not Found");
   <script src='../../../../../../../wp-content/themes/four-ten-gone/js/mo.min.js'></script>
 
   <script src="../../../../../../../wp-content/themes/four-ten-gone/js/index-index.js"></script>
-
+  <style>
+    img#parrot {
+      width: 22vw;
+      float: right;
+      border-radius: 50%;
+    }
+    </style> 
 </body>
 
 </html>

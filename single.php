@@ -29,8 +29,10 @@ header("HTTP/1.1 410 Gone");
     <!-- copryright 2018 Dan McKeown Licensed under MIT license -->
     <section id="fourTenGone">
       <span id="fourTen">410</span>
+      <br />
       <span id="spacer"> </span>
       <span id="Gone">Gone</span>
+      <img id="parrot" src="../../../../../../../wp-content/themes/four-ten-gone/pacificpelican_as_the_artwork_in_a_404_error_page_Pixar_style_20f470b3-3f77-4c93-a29a-6e5ccf6318c9.png" alt="parrot" />
     </section>
   </div>
   <br />
@@ -53,7 +55,13 @@ header("HTTP/1.1 410 Gone");
 	<script src='../../../../../../../wp-content/themes/four-ten-gone/js/mo.min.js'></script>
 
   <script src="../../../../../../../wp-content/themes/four-ten-gone/js/index.js"></script>
-
+  <style>
+    img#parrot {
+      width: 22vw;
+      float: right;
+      border-radius: 50%;
+    }
+    </style> 
 </body>
 
 </html>

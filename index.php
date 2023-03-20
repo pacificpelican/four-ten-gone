@@ -36,7 +36,7 @@ header("HTTP/1.1 404 Not Found");
       <span id="spacer"> </span>
       <span id="Gone">Not Found</span>
      
-      <img id="parrot" src="../../../../../../../wp-content/themes/four-ten-gone/pacificpelican_as_the_artwork_in_a_404_error_page_Pixar_style_6a74c9bb-9496-4627-a21f-1a675076b38a.png" alt="parrot" />
+      <img id="parrot" src="../../../../../../../wp-content/themes/four-ten-gone/pacificpelican_as_a_1920s-style_pilot_with_goggles_with_clouds__e84eb2ba-cfa4-4a46-aa28-1412d3f74113.png" alt="parrot" />
   
     </section>
     

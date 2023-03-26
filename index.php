@@ -33,10 +33,11 @@ header("HTTP/1.1 404 Not Found");
     <!-- copryright 2018 Dan McKeown Licensed under MIT license -->
     <section id="fourTenGone">
       <span id="fourTen">404</span>
+  
       <span id="spacer"> </span>
       <span id="Gone">Not Found</span>
      
-      <img id="parrot" src="../../../../../../../wp-content/themes/four-ten-gone/pacificpelican_as_a_1920s-style_pilot_with_goggles_with_clouds__e84eb2ba-cfa4-4a46-aa28-1412d3f74113.png" alt="parrot" />
+      <img id="parrot" src="../../../../../../../wp-content/themes/four-ten-gone/pacificpelican_as_a_modern_logo_isometric_3c81214f-c3ba-4eda-80c5-60c656253560.webp" alt="parrot" />
   
     </section>
     
@@ -61,6 +62,9 @@ header("HTTP/1.1 404 Not Found");
 
   <script src="../../../../../../../wp-content/themes/four-ten-gone/js/index-index.js"></script>
   <style>
+    body {
+      background-color: black;
+    }
     img#parrot {
       width: 22vw;
       float: right;

@@ -29,8 +29,12 @@ header("HTTP/1.1 404 Not Found");
     <!-- copryright 2018 Dan McKeown Licensed under MIT license -->
     <section id="fourTenGone">
       <span id="fourTen">404</span>
+      <br />
       <span id="spacer"> </span>
       <span id="Gone">Not Found</span>
+     
+      <img id="parrot" src="../../../../../../../wp-content/themes/four-ten-gone/pacificpelican_as_a_modern_logo_isometric_46f05fd6-356a-4840-9212-8d6fe57c3c7f.webp" alt="parrot" />
+  
     </section>
     <aside id="siteLink">
       <a href="../../../../../../../..">

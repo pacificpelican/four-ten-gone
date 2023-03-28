@@ -32,7 +32,7 @@ header("HTTP/1.1 410 Gone");
       <br />
       <span id="spacer"> </span>
       <span id="Gone">Gone</span>
-      <img id="parrot" src="../../../../../../../wp-content/themes/four-ten-gone/pacificpelican_as_a_1920s-style_pilot_with_goggles_with_clouds__e7ceb42e-6fb7-4781-940b-06f6af0555ff.png" alt="parrot" />
+      <img id="parrot" src="../../../../../../../wp-content/themes/four-ten-gone/pacificpelican_as_a_modern_logo_isometric_46f05fd6-356a-4840-9212-8d6fe57c3c7f.webp" alt="parrot" />
     </section>
   </div>
   <br />

@@ -29,7 +29,7 @@ header("HTTP/1.1 404 Not Found");
     <!-- copryright 2018 Dan McKeown Licensed under MIT license -->
     <section id="fourTenGone">
       <span id="fourTen">404</span>
-      <br />
+      
       <span id="spacer"> </span>
       <span id="Gone">Not Found</span>
      
@@ -56,7 +56,16 @@ header("HTTP/1.1 404 Not Found");
   <script src='../../../../../../../wp-content/themes/four-ten-gone/js/mo.min.js'></script>
 
   <script src="../../../../../../../wp-content/themes/four-ten-gone/js/index-index.js"></script>
-
+  <style>
+    body {
+      background-color: azure;
+    }
+    img#parrot {
+      width: 22vw;
+      float: right;
+      border-radius: 50%;
+    }
+    </style> 
 </body>
 
 </html>

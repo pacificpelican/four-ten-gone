@@ -63,7 +63,7 @@ header("HTTP/1.1 404 Not Found");
   <script src="../../../../../../../wp-content/themes/four-ten-gone/js/index-index.js"></script>
   <style>
     body {
-      background-color: black;
+      background-color: azure;
     }
     img#parrot {
       width: 22vw;
